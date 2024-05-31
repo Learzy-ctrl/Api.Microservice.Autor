@@ -2,9 +2,6 @@
 using Api.Microservice.Autor.Persistencia;
 using FluentValidation;
 using MediatR;
-using System.Data;
-using System.Security.Cryptography.X509Certificates;
-using ZstdSharp.Unsafe;
 
 namespace Api.Microservice.Autor.Aplicacion
 {
